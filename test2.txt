@@ -1,2 +1,3 @@
 this is test2
 Another change for testing comparison 2
+This is stash section. Change in File2
